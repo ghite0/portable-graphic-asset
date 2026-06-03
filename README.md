@@ -8,4 +8,4 @@ When writing a PGA file, you must define the name of the asset, the author, and 
 After the header, you must define the actual sprite. Keep in mind the sprite is 10x10. See an example in the 'examples' folder.
 
 # Decoder
-In this repo, there is a file named pga-decoder.py it is meant to be ran in terminal, and displays whatever pga file is selected. You may use his python file to decode the assets in your project that uses PGA.
+In this repo, there is a file named pga-decoder.py it is meant to be ran in terminal, and displays whatever PGA file is selected. You may use his python file to decode the assets in your project that uses PGA.
