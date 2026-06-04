@@ -1,5 +1,5 @@
 # Portable Graphic Asset
-Portable Graphic Asset (PGA) is a human readable image format. It supports a 10 x 10 resolution, with 256 colors. PGA is designed to be used for games.
+Portable Graphic Asset (PGA) is a human readable image format. It supports a 16 x 16 resolution, with 256 colors. PGA is designed to be used for games.
 
 # Specifications
 | Section | Key Name | Value Format | Representation / Constraints | Purpose |
