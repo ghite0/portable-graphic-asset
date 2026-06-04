@@ -83,7 +83,7 @@ def draw_ui(stdscr, file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python pga_viewer.py <filename.pga>")
+        print("Usage: python pga-viewer.py <filename.pga>")
         sys.exit(1)
         
     target_file = sys.argv[1]
